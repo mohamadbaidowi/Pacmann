@@ -18,6 +18,7 @@ Summary of the updates made, can be seen in the table below.
 ![image](https://user-images.githubusercontent.com/116284597/216281775-0bacbc14-1af2-4525-8224-26e9cac17ca3.png)
 
 After data checking, I create view to generate data for analizing to achieve the objectives 
-and create index to accelerate query in sqlite database <b>(view creation.sql and index creation.sql)</b>.
+and create index to accelerate query in sqlite database <b>(view creation.sql and index creation.sql)</b>. 
+To visualize, I create python code to access olist dataset and create graph refer to the data <b>(datawranglingsqlproject.py)</b>
 
 if you are interested to read the results of the analysis, please <a href="https://medium.com/@mohamad.baidowi/pacmann-data-wrangling-sql-project-181643a96476" >click here</a>
